@@ -45,4 +45,4 @@ input
 getwd()
 setwd("C:/Users/apple/OneDrive/문서")
 scan1->scan('scan_1.txt')
-scan1->scan('scan_1.txt')
+scan1
